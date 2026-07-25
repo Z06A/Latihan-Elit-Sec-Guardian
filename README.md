@@ -1,4 +1,4 @@
-## **Latihan-Elit-Sec-Guardian**
+## **Course-Elit-Security-Guardian**
 
 Penguasaan Keamanan Siber Elite Dengan Tes Praktik untuk Mempelajari Manajemen Risiko
 Kontrol Akses Pertahanan Siber pada tahun 2024 terbaru
